@@ -2,7 +2,7 @@ repo_name: DarkDanrop/Fooocus
 report_id: 5198c87e509a03432d96605a4a0b82db
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-16T14:59:06+00:00'
+timestamp: '2024-01-04T14:53:36+00:00'
 requested_by: lllyasviel
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/DarkDanrop/Fooocus
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DarkDanrop/Fooocus
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/DarkDanrop/Fooocus
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -45,6 +48,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/DarkDanrop/Fooocus/blob/main/extras/BLIP/models/bert_tokenizer/vocab.txt
   detection_source: extras/BLIP/models/bert_tokenizer/vocab.txt
   last_updated_by: lllyasviel
   last_updated_on: 2023-12-13 16:25:44.000000000 Z
@@ -56,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DarkDanrop/Fooocus
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -65,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/DarkDanrop/Fooocus/blob/main/requirements_versions.txt
   detection_source: requirements_versions.txt
   last_updated_by: lvmin
   last_updated_on: 2023-08-10 10:43:40.000000000 Z
@@ -76,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/DarkDanrop/Fooocus/blob/main/environment.yaml
   detection_source: environment.yaml
   last_updated_by: lvmin
   last_updated_on: 2023-08-10 10:49:45.000000000 Z
@@ -87,6 +94,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/DarkDanrop/Fooocus/blob/main/requirements_versions.txt
   detection_source: requirements_versions.txt
   last_updated_by: lllyasviel
   last_updated_on: 2023-10-19 10:46:54.000000000 Z
@@ -99,6 +107,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/12683/2KMkheJx_400x400.png
+  detection_source_url: https://github.com/DarkDanrop/Fooocus/blob/main/requirements_versions.txt
   detection_source: requirements_versions.txt
   last_updated_by: lllyasviel
   last_updated_on: 2023-10-19 13:25:06.000000000 Z
@@ -111,6 +120,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/DarkDanrop/Fooocus
   detection_source: Repo Metadata
 - name: LangChain
   description: Build AI apps with LLMs through composability
@@ -120,6 +130,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/DarkDanrop/Fooocus/blob/main/extras/BLIP/models/bert_tokenizer/vocab.txt
   detection_source: extras/BLIP/models/bert_tokenizer/vocab.txt
   last_updated_by: lllyasviel
   last_updated_on: 2023-12-13 16:25:44.000000000 Z
@@ -142,6 +153,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3730/no-img-open-source.png
+  detection_source_url: https://github.com/DarkDanrop/Fooocus/blob/main/requirements_versions.txt
   detection_source: requirements_versions.txt
   last_updated_by: lvmin
   last_updated_on: 2023-08-10 10:43:40.000000000 Z
@@ -169,6 +181,7 @@ tools:
   category: Application Utilities
   sub_category: NLP / Sentiment Analysis
   image_url: https://img.stackshare.io/service/12240/no-img.png
+  detection_source_url: https://github.com/DarkDanrop/Fooocus/blob/main/requirements_versions.txt
   detection_source: requirements_versions.txt
   last_updated_by: lvmin
   last_updated_on: 2023-08-10 10:43:40.000000000 Z
