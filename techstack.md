@@ -5,15 +5,12 @@ DarkDanrop/Fooocus is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Pillow](https://python-pillow.github.io/) – Image Processing and Management
 - [SciPy](http://www.scipy.org) – Data Science Tools
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
 - [pip](https://pypi.org/project/pip/) – Front End Package Manager
 - [Transformers](https://huggingface.co/transformers/) – NLP / Sentiment Analysis
 - [Gradio](https://www.gradio.app/) – Machine Learning Tools
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
-- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -25,15 +22,12 @@ DarkDanrop/Fooocus is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 - <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/12240/no-img.png' alt='Transformers'/> [Transformers](https://huggingface.co/transformers/) – NLP / Sentiment Analysis
 - <img width='25' height='25' src='https://img.stackshare.io/service/12683/2KMkheJx_400x400.png' alt='Gradio'/> [Gradio](https://www.gradio.app/) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -44,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DarkDanrop/Fooocus](https://github.com/DarkDanrop/Fooocus)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|01/05/24 <br/>Report generated|
+|16<br/>Tools used|01/11/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -70,19 +64,6 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'>
   <br>
   <sub><a href="https://www.python.org">Python</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-</tr>
-</table>
-
-## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
-<table><tr>
-  <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'>
-  <br>
-  <sub><a href="https://github.com/pgvector/pgvector/">pgvector</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -132,7 +113,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (7)
+## Other (5)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/12683/2KMkheJx_400x400.png' alt='Gradio'>
@@ -148,22 +129,6 @@ Full tech stack [here](/techstack.md)
   <sub><a href="http://jupyter.org">Jupyter</a></sub>
   <br>
   <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'>
-  <br>
-  <sub><a href="https://github.com/hwchase17/langchain">LangChain</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'>
-  <br>
-  <sub><a href="http://www.numpy.org/">NumPy</a></sub>
-  <br>
-  <sub>v1.23.5</sub>
 </td>
 
 <td align='center'>
