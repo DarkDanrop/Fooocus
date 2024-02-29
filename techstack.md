@@ -3,14 +3,14 @@
 ## Tech Stack
 DarkDanrop/Fooocus is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [Python](https://www.python.org) – Languages
 - [pip](https://pypi.org/project/pip/) – Front End Package Manager
-- [Transformers](https://huggingface.co/transformers/) – NLP / Sentiment Analysis
+- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
 - [Gradio](https://www.gradio.app/) – Machine Learning Tools
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [SciPy](http://www.scipy.org) – Data Science Tools
+- [Transformers](https://huggingface.co/transformers/) – NLP / Sentiment Analysis
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 DarkDanrop/Fooocus is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/12240/no-img.png' alt='Transformers'/> [Transformers](https://huggingface.co/transformers/) – NLP / Sentiment Analysis
+- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/12683/2KMkheJx_400x400.png' alt='Gradio'/> [Gradio](https://www.gradio.app/) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/12240/no-img.png' alt='Transformers'/> [Transformers](https://huggingface.co/transformers/) – NLP / Sentiment Analysis
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DarkDanrop/Fooocus](https://github.com/DarkDanrop/Fooocus)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|01/11/24 <br/>Report generated|
+|16<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
