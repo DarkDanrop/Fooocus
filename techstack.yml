@@ -2,7 +2,7 @@ repo_name: DarkDanrop/Fooocus
 report_id: 5198c87e509a03432d96605a4a0b82db
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-11T12:12:23+00:00'
+timestamp: '2024-02-29T18:01:19+00:00'
 requested_by: DarkDanrop
 provider: github
 branch: main
@@ -87,7 +87,7 @@ tools:
   last_updated_by: lllyasviel
   last_updated_on: 2023-10-19 10:46:54.000000000 Z
 - name: Gradio
-  description: 'GUIs for Faster ML Prototyping and Sharing '
+  description: GUIs for Faster ML Prototyping and Sharing
   website_url: https://www.gradio.app/
   license: Apache-2.0
   open_source: true
